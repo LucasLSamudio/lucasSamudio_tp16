@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "marca": "Fixie",
+    "modelo": "FM18SI29AM211",
+    "rodado": 29,
+    "anioFabricacion": 2021,
+    "color": "Violet",
+    "pesoKg": 13,
+    "tipo": "Montañera",
+    "precio": 211051,
+    "vendido": true
+}, {
+    "id": 2,
+    "marca": "Shifter",
+    "modelo": "FM18F29AM210",
+    "rodado": 26,
+    "anioFabricacion": 2020,
+    "color": "Violet",
+    "pesoKg": 13,
+    "tipo": "Triatlón",
+    "precio": 473132,
+    "vendido": false
+}, {
+    "id": 3,
+    "marca": "SLP",
+    "modelo": "FM18SI29AM211",
+    "rodado": 28,
+    "anioFabricacion": 2024,
+    "color": "Teal",
+    "pesoKg": 17,
+    "tipo": "Triatlón",
+    "precio": 277136,
+    "vendido": true
+}, {
+    "id": 4,
+    "marca": "Fierce",
+    "modelo": "Ruta",
+    "rodado": 16,
+    "anioFabricacion": 2020,
+    "color": "Violet",
+    "pesoKg": 14,
+    "tipo": "Triatlón",
+    "precio": 776666,
+    "vendido": false
+}, {
+    "id": 5,
+    "marca": "TopMega",
+    "modelo": "Regal",
+    "rodado": 28,
+    "anioFabricacion": 2024,
+    "color": "Blue",
+    "pesoKg": 14,
+    "tipo": "Montañera",
+    "precio": 1144690,
+    "vendido": true
+}, {
+    "id": 6,
+    "marca": "Olmo",
+    "modelo": "FM18F29AM210",
+    "rodado": 29,
+    "anioFabricacion": 2024,
+    "color": "Blue",
+    "pesoKg": 16,
+    "tipo": "Retro",
+    "precio": 621539,
+    "vendido": true
+}, {
+    "id": 7,
+    "marca": "Halley",
+    "modelo": "FM18F29AM210",
+    "rodado": 29,
+    "anioFabricacion": 2024,
+    "color": "Maroon",
+    "pesoKg": 15,
+    "tipo": "Retro",
+    "precio": 911068,
+    "vendido": false
+}, {
+    "id": 8,
+    "marca": "Fixie",
+    "modelo": "FM18F29AM210",
+    "rodado": 28,
+    "anioFabricacion": 2023,
+    "color": "Khaki",
+    "pesoKg": 15,
+    "tipo": "Paseo",
+    "precio": 925265,
+    "vendido": true
+}, {
+    "id": 9,
+    "marca": "Olmo",
+    "modelo": "Techno",
+    "rodado": 26,
+    "anioFabricacion": 2022,
+    "color": "Indigo",
+    "pesoKg": 16,
+    "tipo": "Retro",
+    "precio": 356691,
+    "vendido": false
+}, {
+    "id": 10,
+    "marca": "SLP",
+    "modelo": "FM18SI29AM211",
+    "rodado": 26,
+    "anioFabricacion": 2020,
+    "color": "Fuscia",
+    "pesoKg": 13,
+    "tipo": "Montañera",
+    "precio": 348322,
+    "vendido": true
+}]
